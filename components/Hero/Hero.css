@@ -1,0 +1,20 @@
+
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.hero h2 {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+@media (max-width: 900px) {
+    .hero h2 {
+        font-size: 28px;
+    }
+  }

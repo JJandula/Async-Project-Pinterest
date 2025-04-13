@@ -1,0 +1,18 @@
+
+.search {
+    width: 70%;
+    height: 50px;
+    background-color: #f1f1f1;
+    border-radius: 30px;
+    font-size: 18px;
+    margin-bottom: 40px;
+    border: none;
+    padding: 20px;
+    font-weight: 300;
+}
+
+@media (max-width: 600px) {
+    .search {
+        width: 80%;
+    }
+}
