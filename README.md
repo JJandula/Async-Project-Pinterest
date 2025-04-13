@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/02/25/18/24/18-24-34-891_512.gif" width="400" height="auto">
+  <img src="https://cdn.pixabay.com/animation/2024/02/25/18/24/18-24-34-891_512.gif" width="200" height="auto">
 </div>
 
 
