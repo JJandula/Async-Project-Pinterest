@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/animation/2024/02/25/18/24/18-24-34-891_512.gif" width="100" height="auto"> # Pinterest Async Clone - Unsplash API
+# Pinterest Async Clone - Unsplash API <img src="https://cdn.pixabay.com/animation/2024/02/25/18/24/18-24-34-891_512.gif" width="100" height="auto">
 
 
 
