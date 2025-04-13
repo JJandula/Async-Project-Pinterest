@@ -1,8 +1,9 @@
-📌 Pinterest Async Clone - Unsplash API
+# 📌 Pinterest Async Clone - Unsplash API
+
 Bienvenido a Pinterest Async Clone, un proyecto web inspirado en la experiencia visual de Pinterest, donde puedes explorar imágenes de alta calidad gracias a la API de Unsplash.
 Construido con un enfoque asíncrono para garantizar una carga fluida y rápida de contenido dinámico.
 
-🚀 Tecnologías utilizadas:
+# 🚀 Tecnologías utilizadas:
 
 - HTML5
 
@@ -14,7 +15,7 @@ Construido con un enfoque asíncrono para garantizar una carga fluida y rápida 
 
 - Unsplash API — Para obtener imágenes de alta calidad de forma dinámica
 
-🎯 Características principales:
+# 🎯 Características principales:
 
 - 📸 Galería dinámica con carga de imágenes desde la API de Unsplash
 
