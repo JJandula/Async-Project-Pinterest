@@ -15,6 +15,8 @@ Construido con un enfoque asíncrono para garantizar una carga fluida y rápida 
 
 - Unsplash API — Para obtener imágenes de alta calidad de forma dinámica
 
+[![Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vite,npm,github)](https://skillicons.dev)
+
 # 🎯 Características principales:
 
 - 📸 Galería dinámica con carga de imágenes desde la API de Unsplash
